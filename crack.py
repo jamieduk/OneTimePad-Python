@@ -374,16 +374,22 @@ def crack_menu() -> None:
         choice=input("Choose (1-7): ").strip()
         if choice == "1":
             brute_force_demo()
+            input("\nPress Enter to continue...")
         elif choice == "2":
             frequency_analysis()
+            input("\nPress Enter to continue...")
         elif choice == "3":
             entropy_analysis()
+            input("\nPress Enter to continue...")
         elif choice == "4":
             key_reuse_detection()
+            input("\nPress Enter to continue...")
         elif choice == "5":
             ciphertext_xor_demo()
+            input("\nPress Enter to continue...")
         elif choice == "6":
             randomness_tests()
+            input("\nPress Enter to continue...")
         elif choice == "7":
             break
         else:
