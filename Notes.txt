@@ -1,0 +1,42 @@
+
+One Time Pad For Python (c) J~Net 2026
+
+
+
+./start.sh
+
+
+
+# Manual Start
+
+python3 main.py
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Comparison with other ciphers
+
+|   Rank | Cipher                         | Status                          | Approx. Security |
+| -----: | ------------------------------ | ------------------------------- | ---------------- |
+|      1 | One-Time Pad                   | Unbreakable (if used correctly) | ★★★★★            |
+|      2 | AES-256                        | Industry standard               | ★★★★★            |
+|      3 | ChaCha20                       | Modern                          | ★★★★★            |
+|      4 | AES-128                        | Modern                          | ★★★★★            |
+|      5 | Serpent                        | Modern                          | ★★★★★            |
+|      6 | Twofish                        | Modern                          | ★★★★★            |
+|      7 | Camellia                       | Modern                          | ★★★★★            |
+|      8 | Blowfish                       | Older but still respectable     | ★★★★☆            |
+|      9 | Enigma machine (late versions) | Historical                      | ★★☆☆☆            |
+| **10** | **Lorenz cipher**              | **Historical military cipher**  | **★★★☆☆**        |
+|     11 | DES                            | Broken by brute force           | ★★☆☆☆            |
+|     12 | Vigenère cipher                | Classical                       | ★☆☆☆☆            |
+|     13 | Playfair cipher                | Classical                       | ★☆☆☆☆            |
+|     14 | Hill cipher                    | Educational                     | ★☆☆☆☆            |
+|     15 | Affine cipher                  | Weak                            | ☆☆☆☆☆            |
+|     16 | Caesar cipher                  | Trivial                         | ☆☆☆☆☆            |
+
+
+
+
+
+
+
