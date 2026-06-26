@@ -1,6 +1,8 @@
 
 One Time Pad For Python (c) J~Net 2026
 
+https://github.com/jamieduk/OneTimePad-Python
+
 
 
 ./start.sh
@@ -35,7 +37,7 @@ Comparison with other ciphers
 |     16 | Caesar cipher                  | Trivial                         | ☆☆☆☆☆            |
 
 
-
+I have included an example file for you to crack / decrypt called enc-text-file01
 
 
 
